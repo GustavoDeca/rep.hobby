@@ -1,0 +1,6 @@
+
+    #photograpy{
+        display:flex;
+        flex-direction: column;
+        color: rgb(6, 126, 126);
+    };
