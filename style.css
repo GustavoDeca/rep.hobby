@@ -4,6 +4,6 @@
         flex-direction: column;
         color: rgb(6, 126, 126);
     };
-    #title{
+    .title{
        align-self: center;
     }
